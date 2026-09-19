@@ -1,0 +1,16 @@
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.38.0
+peft>=0.10.0
+timm>=0.9.16
+einops>=0.7.0
+accelerate>=0.27.0
+scikit-learn
+opencv-python
+numpy
+tqdm
+pillow
+sentencepiece
+evaluate rouge_score 
+nltk 
+sacrebleu
